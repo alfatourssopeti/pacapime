@@ -1,0 +1,87 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/html/valami
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :.env
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :.env
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :routes/web.php
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :resources/views/emails/send.blade.php
+> git ls-files --stage -- resources/views/emails/
+> git show :resources/views/partial/contact.blade.php
+> git ls-files --stage -- resources/views/partial/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/SliderController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :app/Http/Controllers/Admin/SliderController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php

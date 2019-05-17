@@ -1,0 +1,313 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/html/valami
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :resources/views/rolunk.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/ActivityLogsController.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :database/migrations/2019_05_17_060214_create_news__categories_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_17_060214_create_news__categories_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_17_060220_create_news_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111924_create_photos_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_17_060220_create_news_table.php
+> git ls-files --stage -- database/migrations/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :resources/laravel-admin/menus.json
+> git show :routes/web.php
+> git show :database/migrations/2019_05_17_060220_create_news_table.php
+> git ls-files --stage -- database/migrations/
+> git show :routes/web.php
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :routes/web.php
+> git show :resources/laravel-admin/menus.json
+> git show :database/migrations/2019_05_17_060214_create_news__categories_table.php
+> git ls-files --stage -- database/migrations/
+> git show :resources/laravel-admin/menus.json
+> git show :routes/web.php
+> git show :app/Http/Controllers/Rolunk.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :routes/web.php
+> git show :public/css/frontend.scss
+> git ls-files --stage -- public/css/
+> git show :routes/web.php
+> git show :resources/laravel-admin/menus.json
+> git show :routes/web.php
+> git show :resources/views/rolunk.blade.php
+> git ls-files --stage -- resources/views/
+> git show :routes/web.php
+> git show :app/Http/Controllers/ContactController.php
+> git ls-files --stage -- app/Http/Controllers/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :resources/views/admin/newscat/index.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/newscat/edit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/newscat/form.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/menu/index.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/index.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/newscat/index.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/index.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/edit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/form.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/menu/show.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/form.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/form.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/menu/edit.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/form.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/edit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/menu/create.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/News_Category.php
+> git ls-files --stage -- app/
+> git show :app/Timeline_post.php
+> git ls-files --stage -- app/
+> git show :app/News_Category.php
+> git ls-files --stage -- app/
+> git show :app/Timeline_post.php
+> git ls-files --stage -- app/
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/menu/show.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/News.php
+> git ls-files --stage -- app/
+> git show :app/Photo.php
+> git ls-files --stage -- app/
+> git show :app/News.php
+> git ls-files --stage -- app/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/formpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/pages/form.blade.php
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/edit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/pages/create.blade.php
+> git show :resources/views/admin/newscat/create.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :routes/web.php
+> git show :resources/views/admin/pages/create.blade.php
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/pages/create.blade.php
+> git show :resources/views/admin/newscat/createnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/edit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/newscat/newsedit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/timeline/formpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/timeline/post_edit.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/timeline/formpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/newscat/newsedit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :routes/web.php
+> git show :resources/views/admin/newscat/show.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/newscat/newsedit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/formnews.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :resources/views/admin/newscat/newsedit.blade.php
+> git ls-files --stage -- resources/views/admin/newscat/
+> git show :app/Http/Controllers/Admin/NewsController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/

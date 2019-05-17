@@ -1,0 +1,258 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/html/valami
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :resources/views/rolunk.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :database/migrations/2019_05_16_111924_create_photos_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_132040_timeline_posts.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_132040_timeline_posts.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111913_create_albums_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111924_create_photos_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_132040_timeline_posts.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_16_111924_create_photos_table.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_132040_timeline_posts.php
+> git ls-files --stage -- database/migrations/
+> git check-ignore -z --stdin
+> git show :resources/laravel-admin/menus.json
+> git show :database/migrations/2019_05_15_132040_timeline_posts.php
+> git ls-files --stage -- database/migrations/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :resources/views/admin/timeline/index.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/create.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/gallery/edit.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/gallery/form.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/form.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/form.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/create.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/create.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/create.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/create.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/edit.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/edit.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/edit.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :app/Album.php
+> git ls-files --stage -- app/
+> git show :app/Timeline.php
+> git ls-files --stage -- app/
+> git show :app/Album.php
+> git ls-files --stage -- app/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/index.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/create.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/formphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/timeline/form.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/formphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/createpost.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :routes/web.php
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/formphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/gallery/formphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/form.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Photo.php
+> git ls-files --stage -- app/
+> git show :app/Timeline_post.php
+> git ls-files --stage -- app/
+> git show :app/Photo.php
+> git ls-files --stage -- app/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Photo.php
+> git ls-files --stage -- app/
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/timeline/form.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/timeline/show.blade.php
+> git ls-files --stage -- resources/views/admin/timeline/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/GalleryController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :routes/web.php
+> git show :app/Http/Controllers/Admin/TimelineController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/gallery/createphoto.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/
+> git show :resources/views/admin/gallery/show.blade.php
+> git ls-files --stage -- resources/views/admin/gallery/

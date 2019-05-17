@@ -1,0 +1,66 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/html/valami
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :resources/views/welcome.blade.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :database/migrations/2019_05_15_085133_slider.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_10_115550_menu.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_085133_slider.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_10_115550_menu.php
+> git ls-files --stage -- database/migrations/
+> git show :database/migrations/2019_05_15_085133_slider.php
+> git ls-files --stage -- database/migrations/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/SliderController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git show :app/Http/Controllers/Admin/MenuController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :app/Http/Controllers/Admin/SliderController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :resources/laravel-admin/menus.json
+> git show :routes/web.php
+> git check-ignore -z --stdin
+> git show :resources/views/admin/slider/index.blade.php
+> git ls-files --stage -- resources/views/admin/slider/
+> git check-ignore -z --stdin
+> git show :resources/views/admin/menu/index.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/slider/index.blade.php
+> git ls-files --stage -- resources/views/admin/slider/
+> git show :resources/views/admin/menu/index.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/slider/index.blade.php
+> git ls-files --stage -- resources/views/admin/slider/
+> git show :resources/views/admin/menu/form.blade.php
+> git ls-files --stage -- resources/views/admin/menu/
+> git show :resources/views/admin/slider/index.blade.php
+> git ls-files --stage -- resources/views/admin/slider/
+> git show :app/Http/Controllers/Admin/SliderController.php
+> git ls-files --stage -- app/Http/Controllers/Admin/
+> git show :resources/views/admin/slider/index.blade.php
+> git ls-files --stage -- resources/views/admin/slider/
